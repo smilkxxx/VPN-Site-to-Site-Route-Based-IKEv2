@@ -268,4 +268,4 @@ Los scripts utilizados para la implementación de la práctica se encuentran dis
 
 La demostración completa de la implementación y funcionamiento de la VPN se encuentra disponible en el siguiente enlace:
 
-https://youtu.be/NIcKg9zEqE0?si=EcgrtBftB_4z68Zz
+https://youtu.be/0l0rl4GW2Ek
